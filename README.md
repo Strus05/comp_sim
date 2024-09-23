@@ -3,3 +3,4 @@
 [Лабораторная работа 1](https://github.com/Strus05/comp_sim/blob/main/lr1.mlx) "Исследование однофазного неуправляемого двухполупериодного выпрямителя"
 
 
+![](https://github.com/Strus05/comp_sim/blob/main/Pivo_2.gif)
