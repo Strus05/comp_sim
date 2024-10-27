@@ -1,0 +1,1 @@
+VoltageRMS 150, frequency 50, Inductance 0.0002, Resistance 0.001, ForwVolt 0.8, ResistanceRon 0.001
