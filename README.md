@@ -4,4 +4,6 @@
 
 [Лабораторная работа 2](https://github.com/Strus05/comp_sim/releases/tag/ЛР2(slx%2Bmlx)) "Исследование однофазного двухполупериодного управляемого выпрямителя"
 
+[Лабораторная работа 3](https://github.com/Strus05/comp_sim/tree/main/LR3) "Исследование трехфазного мостового управляемого выпрямителя"
+
 ![](https://github.com/Strus05/comp_sim/blob/main/Pivo_2.gif)
